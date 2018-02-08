@@ -1,0 +1,16 @@
+{
+  "name": "srijan",
+  "version": "1.0.0",
+  "description": "wolfram implementation",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shubham",
+  "license": "ISC",
+  "dependencies": {
+    "express" : "",
+    "wajs" : "",
+    "jsonwebtoken" :""
+  }
+}
